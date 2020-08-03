@@ -6,7 +6,7 @@ import numpy as np
 import torch
 from torch.autograd.variable import Variable
 from torch.utils.data import Dataset
-from src.Models.models import ParseModelOutput
+from ..Models.models import ParseModelOutput
 from typing import List
 
 
